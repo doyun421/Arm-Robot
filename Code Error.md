@@ -16,4 +16,6 @@
 
 
       1. Epic Games launcher
+            - wine install in linux for install launcher msi file
+      2. launch epic games launcher
       
