@@ -47,3 +47,4 @@
             Launch the World and URDF Files Together
             Move the Robotic Arm Manually
             Move the Robotic Arm Using a Script
+https://automaticaddison.com/calculating-wheel-odometry-for-a-differential-drive-robot/
